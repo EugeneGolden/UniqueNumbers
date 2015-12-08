@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\UniqueNumbers\UniqueNumbers\bin\Debug\UniqueNumbers.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\UniqueNumbers\UniqueNumbers\bin\Debug\UniqueNumbers.exe
+c:\users\admin\documents\visual studio 2015\Projects\UniqueNumbers\UniqueNumbers\bin\Debug\UniqueNumbers.pdb
+c:\users\admin\documents\visual studio 2015\Projects\UniqueNumbers\UniqueNumbers\obj\Debug\UniqueNumbers.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\UniqueNumbers\UniqueNumbers\obj\Debug\UniqueNumbers.exe
+c:\users\admin\documents\visual studio 2015\Projects\UniqueNumbers\UniqueNumbers\obj\Debug\UniqueNumbers.pdb
