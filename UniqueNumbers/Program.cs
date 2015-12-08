@@ -9,9 +9,11 @@ namespace UniqueNumbers
 {
     class Program
     {
+        //Найти количество различных элементов массива
         static void Main(string[] args)
         {
             int amountOfElements;
+            int differentNumber;
             ArrayList uniqueList = new ArrayList();
 
             Console.Write("How many elements of array do you expect to have? (enter integer number) ");
@@ -38,6 +40,9 @@ namespace UniqueNumbers
                     Console.Write(originalArray[i] + " ");
                 }
             }
+            Console.ReadKey();
+            Console.WriteLine();
+            Console.WriteLine("Amount of the unique numbers is " + uniqueList.Count);
             Console.ReadKey();
         }
     }
